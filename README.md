@@ -2,6 +2,8 @@
 
 🚫 **NYD Bot** helps you keep your Discord server clean by automatically deleting messages containing unwanted links. You can block links that include certain keywords (e.g., `tiktok`) either per-channel or server-wide. The bot also supports user and role allowlists for exceptions.
 
+#### NOTE: This tool was "vibe coded" on the spot out of curiosity. All the code in this repo is 98% AI generated.
+
 ---
 
 ## ✨ Features
